@@ -1,0 +1,26 @@
+{
+  "name": "vscode_integrate_eslint_and_prettier_with_airbnb",
+  "version": "1.0.0",
+  "description": "VSCode集成ESLint + Prettier + Airbnb风格指南",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiaoxn-programmer/vscode_integrate_eslint_and_prettier_with_airbnb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jiaoxn-programmer/vscode_integrate_eslint_and_prettier_with_airbnb/issues"
+  },
+  "homepage": "https://github.com/jiaoxn-programmer/vscode_integrate_eslint_and_prettier_with_airbnb#readme",
+  "devDependencies": {
+    "eslint": "^8.6.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-import": "^2.25.4",
+    "eslint-plugin-prettier": "^4.0.0"
+  }
+}
